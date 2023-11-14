@@ -1,9 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "No X Chrome",
-  "$schema": "https://json.schemastore.org/chrome-manifest.json",
+  "name": "No X",
   "version": "0.1.0",
-  "description": "No X Chrome",
+  "description": "No X. Remove x.com links on the Twitter UI when copying a link.",
   "icons": {
     "128": "icons/icon_128.png"
   },

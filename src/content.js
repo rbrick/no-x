@@ -10,5 +10,5 @@ document.addEventListener('copy', (clipboard) => {
             navigator.clipboard.writeText("https://vxtwitter.com" + url.pathname);
         }
 
-    } catch { /* ignored */ }
+    } catch { }
 })
